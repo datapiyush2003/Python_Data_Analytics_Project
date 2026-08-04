@@ -59,7 +59,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in INDIA](Project\images\result_3.png)  
+![Trending Top Skills for Data Analysts in INDIA](Project/images/result_3.png)  
 *Bar graph visualizing the trending top skills for data analysts in INDIA in 2023.*
 
 ### Insights:
@@ -92,7 +92,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in INDIA](project/images/result_5.png)    
+![Most Optimal Skills for Data Analysts in INDIA](Project/images/result_5.png)    
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in INDIA.*
 
 #### Insights:
@@ -127,7 +127,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in INDIA with Coloring by Technology](project/images/result_4.png)  
+![Most Optimal Skills for Data Analysts in INDIA with Coloring by Technology](Project/images/result_4.png)  
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in INDIA with color labels for technology.*
 
 #### Insights:
